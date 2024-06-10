@@ -1,6 +1,11 @@
-# Human_pose
-
 ## Project: Human Posture and Skeleton Recognition Using Computer Vision
+
+### Setup
+
+Basic setup:
+```
+pip install pandas numpy matplotlib pillow tqdm torch scikit-learn torchvision
+```
 
 ### Overview
 
