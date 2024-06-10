@@ -28,6 +28,7 @@ Our model, named **ComplexNet**, is a deep Convolutional Neural Network (CNN) de
 
 ### Training and Performance
 ![Normalization](Normalization.jpg)
+**The important method that lower the MSE!**
 During training, the model initially had a loss of 0.065, which decreased to 0.045 after 25 epochs, indicating a 30% reduction. The loss curve showed rapid learning in the early epochs, stabilizing around the 15th epoch. The final test MSE was 0.043666, close to the training loss, suggesting good generalization and no significant overfitting.
 
 ### Instructions
