@@ -3,6 +3,7 @@
 ### Setup
 
 Basic setup:
+Using **final_model_0609.ipynb**
 ```
 pip install pandas numpy matplotlib pillow tqdm torch scikit-learn torchvision
 ```
