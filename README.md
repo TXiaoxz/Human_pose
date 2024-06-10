@@ -32,3 +32,12 @@ During training, the model initially had a loss of 0.065, which decreased to 0.0
 ### Conclusion
 
 Our project aims to improve real-time human posture detection, potentially contributing valuable insights and advancements to the field of computer vision and machine learning.
+
+### Citation
+@inproceedings{andriluka14cvpr,
+               author = {Mykhaylo Andriluka and Leonid Pishchulin and Peter Gehler and Schiele, Bernt}
+               title = {2D Human Pose Estimation: New Benchmark and State of the Art Analysis},
+               booktitle = {IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+               year = {2014},
+               month = {June}
+}
